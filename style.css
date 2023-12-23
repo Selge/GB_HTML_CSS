@@ -31,7 +31,7 @@ img {
 }
 
 .pop-up__menu>summary {
-    list-style-image: url("./img/header_menu_mobile.svg");
+    list-style-image: url("./static/header_menu_mobile.svg");
 }
 
 .hamburger {
@@ -199,19 +199,19 @@ img {
 }
 
 .women {
-    background: url(./img/offer_women.png);
+    background: url(./static/offer_women.png);
 }
 
 .men {
-    background: url(./img/offer_men.png);
+    background: url(./static/offer_men.png);
 }
 
 .kids {
-    background: url(./img/offer_kids.png);
+    background: url(./static/offer_kids.png);
 }
 
 .accesories {
-    background: url(./img/offer_accesories.png);
+    background: url(./static/offer_accesories.png);
     width: 1140px;
     height: 180px;
     display: flex;
@@ -381,7 +381,7 @@ img {
     justify-content: space-around;
     padding-top: 97px;
     padding-bottom: 156px;
-    background-image: url(./img/bg_subscribe.jpg);
+    background-image: url(./static/bg_subscribe.jpg);
     background-repeat: round;
     flex-wrap: wrap;
 }
@@ -555,7 +555,7 @@ img {
     }
 
     .subscribe__block {
-        background-image: url(./img/bg768_subscribe.png);
+        background-image: url(./static/bg768_subscribe.png);
         gap: 48px;
     }
 
@@ -630,7 +630,7 @@ img {
     }
 
     .subscribe__block {
-        background-image: url(./img/bg375_subscribe.png);
+        background-image: url(./static/bg375_subscribe.png);
         background-size: 100%;
     }
 
